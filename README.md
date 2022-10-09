@@ -23,8 +23,8 @@ This project was done using basic knowledge of HTML and CSS after completing the
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/farhan-navas/qr-code)
-- Live Site URL: [Add live site URL here](https://farhan-navas.github.io/qr-code/)
+- Solution URL: [View Code](https://github.com/farhan-navas/qr-code)
+- Live Site URL: [Live Demo](https://farhan-navas.github.io/qr-code/)
 
 ## My process
 
