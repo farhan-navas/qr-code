@@ -45,7 +45,7 @@ Through this project I was able to apply what basic HTML and CSS knowledge that 
 
 After this project, I feel it is important for me to start learning CSS frameworks. The first one that I will be focusing on is Tailwind CSS and after gaining proficiency in this framework I hope to be able to build better styled websites.
 
-I would also like to learn more about JS Libraries and Frameworks, which I am not yet fluent in
+I would also like to learn more about JS Libraries and Frameworks, which I am not yet fluent in.
 
 ## Author
 
