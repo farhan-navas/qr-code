@@ -29,10 +29,10 @@ body {
 }
 
 .image {
-    height: auto;
+    width: 100%;
     display: block;
     margin: auto;
-    margin-bottom: 0.625rem;
+    margin-bottom: 1.5rem;
 }
 
 img {
@@ -44,15 +44,25 @@ img {
 .heading {
     color: var(--dark-blue);
     text-align: center;
+    margin-bottom: 1.5rem;
 }
 
 .content {
     color: var(--grayish-blue);
     text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
 }
 
 @media (min-width: 500px) {
     .container {
-        width: 400px;
+        max-width: 400px;
     }
 }
